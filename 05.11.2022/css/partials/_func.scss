@@ -1,0 +1,8 @@
+@mixin flex($fd, $jc , $ai) {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   
+    
+}
